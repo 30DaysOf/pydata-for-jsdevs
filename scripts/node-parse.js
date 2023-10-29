@@ -1,6 +1,7 @@
-// Run: node node-parse.js <json-filename>
-
 const fs = require('fs');
+
+
+
 
 // Get the filename from the command line arguments
 const filename = process.argv[2];
